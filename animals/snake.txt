@@ -1,0 +1,9 @@
+name snake
+phyloClass reptile
+flies false
+sixOrMoreLegs false
+laysEggs true
+hasScales true
+hasFeathers false
+warmBlooded false
+breatheUnderwater false

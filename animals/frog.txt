@@ -1,0 +1,9 @@
+name frog
+phyloClass amphibian
+flies false
+sixOrMoreLegs false
+laysEggs true
+hasScales false
+hasFeathers false
+warmBlooded false
+breatheUnderwater false

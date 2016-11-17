@@ -1,0 +1,9 @@
+name dog
+phyloClass mammal
+flies false
+sixOrMoreLegs false
+laysEggs false
+hasScales false
+hasFeathers false
+warmBlooded true
+breatheUnderwater false

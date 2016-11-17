@@ -1,0 +1,9 @@
+name spider
+phyloClass invertabrae
+flies false
+sixOrMoreLegs true
+laysEggs true
+hasScales false
+hasFeathers false
+warmBlooded false
+breatheUnderwater false

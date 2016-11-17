@@ -1,0 +1,9 @@
+name seahorse
+phyloClass mammal
+flies false
+sixOrMoreLegs false
+laysEggs false
+hasScales false
+hasFeathers false
+warmBlooded true
+breatheUnderwater true
